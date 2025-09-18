@@ -4,3 +4,4 @@ transformers
 soundfile
 pydantic
 torch
+python-multipart
